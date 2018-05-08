@@ -1,0 +1,1 @@
+!function(a){"use strict";"function"==typeof define&&define.amd?define(["stellar"],a):"object"==typeof exports?module.exports=a(require("stellar")):a()}(function(){"use strict";$.stellar({horizontalScrolling:!1})});

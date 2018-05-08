@@ -1,0 +1,1 @@
+!function(a){"use strict";"function"==typeof define&&define.amd?define([],a):"object"==typeof exports?module.exports=a():a()}(function(){"use strict";window.print()});

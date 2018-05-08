@@ -1,0 +1,1 @@
+!function(a){"use strict";"function"==typeof define&&define.amd?define(["prettify"],a):"object"==typeof exports?module.exports=a(require("prettify")):a()}(function(){"use strict";prettyPrint()});

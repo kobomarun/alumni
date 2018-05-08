@@ -1,0 +1,1 @@
+!function(a){"use strict";"function"==typeof define&&define.amd?define(["selectize","parsley"],a):"object"==typeof exports?module.exports=a(require("selectize"),require("parsley")):a()}(function(){"use strict";$("select").selectize()});

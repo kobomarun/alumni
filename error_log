@@ -1,0 +1,15 @@
+[21-Nov-2017 16:14:40 UTC] PHP Parse error:  syntax error, unexpected '"/course_guide/view/"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/safade365/public_html/www.alumnimentoring.com/application/views/course-guide.php on line 70
+[21-Dec-2017 16:28:46 UTC] PHP Fatal error:  Call to undefined method homepageModel::getSliders() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/admin/Homepage.php on line 94
+[22-Dec-2017 08:46:53 UTC] PHP Fatal error:  Call to undefined method homepageModel::getSliders() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/Home.php on line 16
+[22-Dec-2017 09:38:34 UTC] PHP Fatal error:  Call to undefined method homepageModel::getSliders() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/Home.php on line 16
+[22-Dec-2017 13:44:40 UTC] PHP Fatal error:  Call to undefined method homepageModel::getSliders() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/admin/Homepage.php on line 94
+[22-Dec-2017 13:45:11 UTC] PHP Fatal error:  Call to undefined method homepageModel::getSliders() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/admin/Homepage.php on line 94
+[07-Jan-2018 19:54:11 UTC] PHP Fatal error:  Call to undefined method homepageModel::getCareer() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/Home.php on line 18
+[07-Jan-2018 20:25:13 UTC] PHP Fatal error:  Call to undefined method homepageModel::getCareer() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/Home.php on line 18
+[07-Jan-2018 21:03:43 UTC] PHP Fatal error:  Call to undefined method homepageModel::getCareer() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/Home.php on line 18
+[07-Jan-2018 21:35:42 UTC] PHP Fatal error:  Call to undefined method homepageModel::getCareer() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/Home.php on line 18
+[07-Jan-2018 21:40:34 UTC] PHP Fatal error:  Call to undefined method homepageModel::getCareer() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/Home.php on line 18
+[07-Jan-2018 21:40:34 UTC] PHP Fatal error:  Call to undefined method homepageModel::getCareer() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/Home.php on line 18
+[07-Jan-2018 21:40:38 UTC] PHP Fatal error:  Call to undefined method homepageModel::getCareer() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/Home.php on line 18
+[07-Jan-2018 21:43:14 UTC] PHP Fatal error:  Call to undefined method homepageModel::getCareer() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/Home.php on line 18
+[04-Apr-2018 11:52:13 UTC] PHP Fatal error:  Call to undefined method Mdl_profile::getEducation() in /home/safade365/public_html/www.alumnimentoring.com/application/controllers/My.php on line 64

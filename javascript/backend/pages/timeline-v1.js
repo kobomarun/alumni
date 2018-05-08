@@ -1,0 +1,1 @@
+!function(a){"use strict";"function"==typeof define&&define.amd?define(["magnific","stellar"],a):"object"==typeof exports?module.exports=a(require("magnific"),require("stellar")):a()}(function(){"use strict";$("#photo-list").magnificPopup({delegate:".magnific",type:"image",gallery:{enabled:!0}}),$.stellar({horizontalScrolling:!1})});

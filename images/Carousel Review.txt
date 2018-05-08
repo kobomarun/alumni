@@ -1,0 +1,106 @@
+CMS REVIEW FOR CAROUSEL
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {	
+	.am_home_page {
+		margin-top: 61px;
+	}
+	
+	.carousel-caption h1 {
+		font-size: 31px;
+		color: #18BC9C;
+		font-family: 'Montserrat';
+	}
+	
+	.carousel-caption p {
+		font-size: 15px;
+	}
+	
+	.carousel-caption {
+		right: 15%;
+		bottom: 9px;
+		left: 15%;
+	}
+}
+
+
+@media screen and (min-width: 1025px) and (max-width: 1440px) {	
+	.am_home_page {
+		margin-top: 61px;
+	}
+	
+	.carousel-caption h1 {
+		font-size: 35px;
+		color: #18BC9C;
+		font-family: 'Montserrat';
+	}
+	
+	.carousel-caption p {
+		font-size: 21px;
+		padding: 0 45px;
+	}
+	
+	.carousel-caption {
+		right: 15%;
+		bottom: 25px;
+		left: 15%;
+	}
+}
+
+
+
+@media screen and (min-width: 1441px) {	
+	.am_home_page {
+		margin-top: 61px;
+	}
+	
+	.carousel-caption h1 {
+		font-size: 45px;
+		color: #18BC9C;
+		font-family: 'Montserrat';
+	}
+	
+	.carousel-caption p {
+		font-size: 21px;
+		padding: 0 155px;
+	}
+	
+	.carousel-caption {
+		right: 15%;
+		bottom: 75px;
+		left: 15%;
+	}
+}
+
+
+HTML REVIEW FOR CAROUSEL
+
+<div class="item active">
+  <img class="first-slide" src="carousel 1100A.jpg" alt="First slide">
+  <div class="container">
+	<div class="carousel-caption">
+	  <h1>The Support That Shape Me.</h1>
+	  <p>My mentor sees more talent and ability within me than I see in myself, and he helps bring it out of me. With the support of my mentor, I now feel confident and in full control of my career.</p>
+	  <p><a class="btn btn-lg btn-success" href="#" role="button">Find out more</a></p>
+	</div>
+  </div>
+</div>
+<div class="item">
+  <img class="second-slide" src="carousel 1100B.jpg" alt="Second slide">
+  <div class="container">
+	<div class="carousel-caption">
+	  <h1>Expert Career Counselling.</h1>
+	  <p>Get free professional career counselling that can help you identify the steps needed to reach important goals as you explore new career options or make changes in the career you already have.</p>
+	  <p><a class="btn btn-lg btn-success" href="#" role="button">Find out more</a></p>
+	</div>
+  </div>
+</div>
+<div class="item">
+  <img class="third-slide" src="carousel 1100C.jpg" alt="Third slide">
+  <div class="container">
+	<div class="carousel-caption">
+	  <h1>My Career, My Life, My Choice.</h1>
+	  <p>Whether you desire to study in or out of Nigeria or aspire to become a farmer, doctor or an engineer, we have well researched information that will guide you all the way through your career.</p>
+	  <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up now</a></p>
+	</div>
+  </div>
+</div>
